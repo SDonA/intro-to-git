@@ -1,2 +1,1 @@
-console.log("This is my big app");
-console.log("new line");
+console.log("This is my big app")
